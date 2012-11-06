@@ -1,5 +1,5 @@
 {
-  "name": "page.js",
+  "name": "page-js",
   "description": "Tiny ~1200 byte Express-inspired client-side router, packaged for Meteor",
   "homepage": "https://github.com/tmeasday/meteor-page-js",
   "author": "Tom Coleman <tom@thesnail.org>",
