@@ -1,0 +1,3 @@
+[submodule "page-js"]
+	path = page-js
+	url = https://github.com/visionmedia/page.js.git
