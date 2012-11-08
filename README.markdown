@@ -1,1 +1,1 @@
-A straightforward wrapper around the excelent [page.js](http://visionmedia.github.com/page.js/).
+A straightforward wrapper around the excellent [page.js](http://visionmedia.github.com/page.js/).
