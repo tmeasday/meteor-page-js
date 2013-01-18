@@ -3,7 +3,7 @@
   "description": "Tiny ~1200 byte Express-inspired client-side router, packaged for Meteor",
   "homepage": "https://github.com/tmeasday/meteor-page-js",
   "author": "Tom Coleman <tom@thesnail.org>",
-  "version": "1.3.1",
+  "version": "1.3.3",
   "git": "https://github.com/tmeasday/meteor-page-js.git",
   "packages": {}
 }
